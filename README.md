@@ -1,0 +1,2 @@
+# modx
+modx snippets
